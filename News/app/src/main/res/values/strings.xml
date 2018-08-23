@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="about_us">AboutUS</string>
+    <string name="user">用户名</string>
+    <string name="password">密码</string>
+    <string name="hint_user">请输入用户名</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="login">登  录</string>
+    <string name="register">注 册</string>
+</resources>
